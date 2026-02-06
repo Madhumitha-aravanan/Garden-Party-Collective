@@ -22,11 +22,11 @@ body {
     --popover-foreground: 0 0% 16%;
     --primary: 145 35% 30%;
     --primary-foreground: 40 33% 96%;
-    --secondary: 24 70% 50%;
+    --secondary: 24 45% 48%;
     --secondary-foreground: 40 33% 96%;
     --muted: 40 20% 90%;
     --muted-foreground: 0 0% 40%;
-    --accent: 24 70% 50%;
+    --accent: 24 45% 48%;
     --accent-foreground: 40 33% 96%;
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 0 0% 98%;
@@ -34,10 +34,10 @@ body {
     --input: 40 20% 85%;
     --ring: 145 35% 30%;
     --chart-1: 145 35% 30%;
-    --chart-2: 24 70% 50%;
+    --chart-2: 24 45% 48%;
     --chart-3: 40 33% 70%;
     --chart-4: 145 25% 45%;
-    --chart-5: 24 50% 65%;
+    --chart-5: 24 35% 60%;
     --radius: 0.75rem;
     --sidebar-background: 0 0% 98%;
     --sidebar-foreground: 240 5.3% 26.1%;
